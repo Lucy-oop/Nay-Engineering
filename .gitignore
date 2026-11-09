@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Source photos (not used by the site — optimised copies live in public/img)
+public/originals/
+public/*.png
